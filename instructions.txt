@@ -1,0 +1,9 @@
+lbu x7,0(x2)
+lbu x8,1(x2)
+lh x10,0(x2)
+lw x11,0(x2)
+ld x12,0(x2)
+lh x10,1(x2)
+lw x11,1(x2)
+ld x12,1(x2)
+

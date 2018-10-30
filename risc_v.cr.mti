@@ -1,0 +1,138 @@
+{C:/Users/thali/Desktop/Hardware - Parte 4/muxDS.sv} {1 {vlog -work work -sv -stats=none {C:/Users/thali/Desktop/Hardware - Parte 4/muxDS.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module muxDS
+
+Top level modules:
+	muxDS
+
+} {} {}} {C:/Users/thali/Desktop/Hardware - Parte 4/bancoReg.sv} {1 {vlog -work work -sv -stats=none {C:/Users/thali/Desktop/Hardware - Parte 4/bancoReg.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module bancoReg
+
+Top level modules:
+	bancoReg
+
+} {} {}} {C:/Users/thali/Desktop/Hardware - Parte 4/shiftl.sv} {1 {vlog -work work -sv -stats=none {C:/Users/thali/Desktop/Hardware - Parte 4/shiftl.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module shiftl
+
+Top level modules:
+	shiftl
+
+} {} {}} {C:/Users/thali/Desktop/Hardware - Parte 4/top.sv} {1 {vlog -work work -sv -stats=none {C:/Users/thali/Desktop/Hardware - Parte 4/top.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}} {C:/Users/thali/Desktop/Hardware - Parte 4/signale.sv} {1 {vlog -work work -sv -stats=none {C:/Users/thali/Desktop/Hardware - Parte 4/signale.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module signale
+
+Top level modules:
+	signale
+
+} {} {}} {C:/Users/thali/Desktop/Hardware - Parte 4/breakmem.sv} {1 {vlog -work work -sv -stats=none {C:/Users/thali/Desktop/Hardware - Parte 4/breakmem.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module breakmem
+
+Top level modules:
+	breakmem
+
+} {} {}} {C:/Users/thali/Desktop/Hardware - Parte 4/ula64.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/thali/Desktop/Hardware - Parte 4/ula64.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.6d Compiler 2018.02 Feb 24 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Compiling entity Ula64
+-- Compiling architecture behavioral of Ula64
+
+} {} {}} {C:/Users/thali/Desktop/Hardware - Parte 4/Deslocamento.sv} {1 {vlog -work work -sv -stats=none {C:/Users/thali/Desktop/Hardware - Parte 4/Deslocamento.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module Deslocamento
+
+Top level modules:
+	Deslocamento
+
+} {} {}} {C:/Users/thali/Desktop/Hardware - Parte 4/Memoria32.sv} {1 {vlog -work work -sv -stats=none {C:/Users/thali/Desktop/Hardware - Parte 4/Memoria32.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module Memoria32
+
+Top level modules:
+	Memoria32
+
+} {} {}} {C:/Users/thali/Desktop/Hardware - Parte 4/ramOnChip64.v} {1 {vlog -work work -stats=none {C:/Users/thali/Desktop/Hardware - Parte 4/ramOnChip64.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module ramOnChip64
+
+Top level modules:
+	ramOnChip64
+
+} {} {}} {C:/Users/thali/Desktop/Hardware - Parte 4/Registrador64.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/thali/Desktop/Hardware - Parte 4/Registrador64.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.6d Compiler 2018.02 Feb 24 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Registrador64
+-- Compiling architecture behavioral_arch of Registrador64
+
+} {} {}} {C:/Users/thali/Desktop/Hardware - Parte 4/control.sv} {1 {vlog -work work -sv -stats=none {C:/Users/thali/Desktop/Hardware - Parte 4/control.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module control
+
+Top level modules:
+	control
+
+} {} {}} {C:/Users/thali/Desktop/Hardware - Parte 4/breakregister.sv} {1 {vlog -work work -sv -stats=none {C:/Users/thali/Desktop/Hardware - Parte 4/breakregister.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module breakregister
+
+Top level modules:
+	breakregister
+
+} {} {}} {C:/Users/thali/Desktop/Hardware - Parte 4/ramOnChip32.v} {1 {vlog -work work -stats=none {C:/Users/thali/Desktop/Hardware - Parte 4/ramOnChip32.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module ramOnChip
+
+Top level modules:
+	ramOnChip
+
+} {} {}} {C:/Users/thali/Desktop/Hardware - Parte 4/Instr_Reg_RISC_V.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/thali/Desktop/Hardware - Parte 4/Instr_Reg_RISC_V.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.6d Compiler 2018.02 Feb 24 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Instr_Reg_RISC_V
+-- Compiling architecture behavioral_arch of Instr_Reg_RISC_V
+
+} {} {}} {C:/Users/thali/Desktop/Hardware - Parte 4/muxb.sv} {1 {vlog -work work -sv -stats=none {C:/Users/thali/Desktop/Hardware - Parte 4/muxb.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module muxb
+
+Top level modules:
+	muxb
+
+} {} {}} {C:/Users/thali/Desktop/Hardware - Parte 4/Memoria64.sv} {1 {vlog -work work -sv -stats=none {C:/Users/thali/Desktop/Hardware - Parte 4/Memoria64.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module Memoria64
+
+Top level modules:
+	Memoria64
+
+} {} {}} {C:/Users/thali/Desktop/Hardware - Parte 4/MuxPC.sv} {1 {vlog -work work -sv -stats=none {C:/Users/thali/Desktop/Hardware - Parte 4/MuxPC.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module muxpc
+
+Top level modules:
+	muxpc
+
+} {} {}} {C:/Users/thali/Desktop/Hardware - Parte 4/immediate.sv} {1 {vlog -work work -sv -stats=none {C:/Users/thali/Desktop/Hardware - Parte 4/immediate.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module immediate
+
+Top level modules:
+	immediate
+
+} {} {}}
